@@ -1,4 +1,4 @@
-/* THANKS TO
+./* THANKS TO
 Allah SWT
 Nurutomo
 Bochilgaming
@@ -48,23 +48,23 @@ global.sdc = 'https://wa.me/message/LSVGQQPG6FUQF1'
 global.snh = 'https://youtube.com/channel/UCeUvY_fIVSAaQ1n5SAylI-A'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085828764046'
-global.povo = '085828764046'
-global.pgopay = '085828764046'
+global.pdana = '088902980987'
+global.povo = '088902980987'
+global.pgopay = '088902980987'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285787476829'
-global.nomorown = '6285828377610'
-global.namebot = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
-global.nameown = 'ᴹᴿ᭄ ZifaOffcོ_1ঔৣ꧂'
+global.nomorbot = '6288902980987'
+global.nomorown = '6288902980987'
+global.namebot = '⳹ ❋ཻུ۪۪⸙HAYUGA-MD⳹ ❋ཻུ۪۪'
+global.nameown = 'ᴹᴿ᭄ SansOffcོ_1ঔৣ꧂'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285828377610'],
-  ['6285828377610'],
-  ['6285828377610'],
-  ['6285828377610', 'Rozi', true]
+  ['6288902980987'],
+  ['6288902980987'],
+  ['6288902980987'],
+  ['6288902980987', 'OWNER...', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
